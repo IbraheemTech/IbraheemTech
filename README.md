@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **AI Agents, ML implementation**
 
-- 📝 I regularly write articles on [https://medium.com/@IbraheemTech](https://medium.com/@IbraheemTech)
+- 📝 I try to be consistent on [https://medium.com/@IbraheemTech](https://medium.com/@IbraheemTech)
 
-- 💬 Ask me about **Artificial Intelligence, Python backend, Data Cleaning, Data Structure and Algorithm**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning, Data Cleaning, Data Structure and Algorithm**
 
 - 📫 How to reach me **syed.ibraheem.dev@gmail.com**
 
